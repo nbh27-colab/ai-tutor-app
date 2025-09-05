@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+torch
+fastapi
+streamlit
+python-multipart
+langchain
+langgraph
+PyMuPDF
+langchain-openai
